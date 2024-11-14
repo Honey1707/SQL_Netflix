@@ -1,4 +1,4 @@
-# SQL_Netflix
+# Netflix Data Analysis using SQL
 
 ![Netflix Logo](https://github.com/Honey1707/SQL_Netflix/blob/main/netflix_logo.png)
 
